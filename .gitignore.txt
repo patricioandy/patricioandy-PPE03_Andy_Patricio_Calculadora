@@ -1,0 +1,6 @@
+# Exclusiones de Visual Studio
+.vs/
+bin/
+obj/
+*.suo
+*.user
